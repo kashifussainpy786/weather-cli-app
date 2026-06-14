@@ -1,4 +1,4 @@
-# -weather-cli-app
+# weather-cli-app
 A Python CLI app that fetches real-time weather using OpenWeatherMap API with search history and JSON persistence.
 
 ## Features
@@ -20,7 +20,7 @@ A Python CLI app that fetches real-time weather using OpenWeatherMap API with se
 2. Install requests: `pip install requests`
 3. Clone or download this repo
 4. Add your OpenWeatherMap API key in the code
-5. Run: `python weather_app.py`
+5. Run: `python weather_checker.py`
 
 ## Concepts Applied
 - Classes and Objects
